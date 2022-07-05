@@ -1,4 +1,4 @@
 ###
 
-GET http://localhost:8080/api/cards.getAll
+GET http://localhost:8080/cards.getAll
 Authorization: 6NSb+2kcdKF44ut4iBu+dm6YLu6pakWapvxHtxqaPgMr5iRhox/HlhBerAZMILPjwnRtXms+zDfVTLCsao9nuw==
